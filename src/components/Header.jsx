@@ -1,5 +1,5 @@
 import React from 'react';
-import menu_icon_png from '../assets/images/icon_menu_white.png'
+import menu_icon_png from '../assets/images/icons/icon_menu_white.png'
 
 const Header = () => {
   return (
